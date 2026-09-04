@@ -1,0 +1,6 @@
+{
+  "name": "Сайт-Продавец",
+  "description": "Сайт-продавец нового поколения с встроенным ИИ-консультантом 24/7 для автоматических продаж и сбора заявок в Telegram",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
